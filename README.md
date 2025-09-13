@@ -37,7 +37,7 @@ This project demonstrates core cybersecurity concepts such as log monitoring, th
 2. Create a virtual environment & activate it:
    
    py -3 -m venv venv
-   venv\Scripts\activate     # On Windows
+--   venv\Scripts\activate     # On Windows
 
 3. Install dependencies:
    pip install -r requirements.txt
@@ -74,10 +74,10 @@ This project demonstrates core cybersecurity concepts such as log monitoring, th
 
 🚀 Future Enhancements
 
-   User authentication & role-based access
-   Real-time log streaming (WebSockets)
-   Alerting (email/Slack)
-   Cloud deployment (Azure / AWS)
+  -- User authentication & role-based access
+  -- Real-time log streaming (WebSockets)
+  -- Alerting (email/Slack)
+  -- Cloud deployment (Azure / AWS)
 
 
 
